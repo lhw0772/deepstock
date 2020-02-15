@@ -1,0 +1,2 @@
+# deepstock
+get money
